@@ -1,5 +1,6 @@
 # C-Sudoku-solver
-Sudoku solver in c. Solve any sudoku using this program.
+Sudoku solver in C. Solve any sudoku using this program in surprisingly short time and efficient manner.
+<p>The sudoku solver helps user to find not only the exact solution of given problem but also number of guesses that user have to make if he knows standard Sudoku solving techniques.
 
 
 <h3>Usage :</h3> 
