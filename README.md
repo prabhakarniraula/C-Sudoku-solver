@@ -5,7 +5,9 @@ Sudoku solver in c. Solve any sudoku using this program.
 <h3>Usage :</h3> 
 
     1. Compile "sudoku_solver.c" file.
-        gcc -Wall autoindent.c
+        gcc sudoku_solver.c
     
     2. Run the program.
         ./a.out
+
+For More info : [Sudoku Solver Project Report](http://wecodelicious.net/sudoku_solver_project_report.html")
