@@ -12,4 +12,4 @@ Sudoku solver in c. Solve any sudoku using this program.
         
 To use program in Windows  replace <b>system("clear")</b> with <b>system("cls")</b>
 
-For More info : [Sudoku Solver Project Report](http://wecodelicious.net/sudoku_solver_project_report.html")
+For More info : [Sudoku Solver Project Report](http://wecodelicious.net/sudoku.html")
